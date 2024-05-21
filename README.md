@@ -2,6 +2,8 @@
 
 MediScan360/HealthCure is an all-in-one medical solution web application that provides detection for multiple diseases including Alzheimer's, Brain Tumor, Breast Cancer, COVID-19, Diabetes, Heart Disease, and Pneumonia. The application allows users to upload relevant medical images and information for disease detection through an intuitive web interface.
 # Sample Images
+![MediScan360 Logo](https://github.com/ajafarsadiq2002/HealthCure-Full/blob/679baae68783a557e2a1c133b3ec7c50d362b745/HP.jpg)
+
 
 ## Table of Contents
 
