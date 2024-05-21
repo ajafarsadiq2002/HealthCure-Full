@@ -1,1 +1,1 @@
-# HealthCure-Full
+# MediScan360
